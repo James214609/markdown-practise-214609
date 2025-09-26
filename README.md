@@ -8,4 +8,4 @@
 *This text is Italic
 _This text also is Italic
  
-Wait! My text isn't italic!
+This is normal text
