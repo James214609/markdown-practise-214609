@@ -23,4 +23,11 @@ Unordered List:
 Ordered List:
 1. First Item
 2. Second Item
-3. Third Item
+
+This is a link
+[Google Website](https://www.google.com)
+
+This is an image:
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+! Put whatever image in here you wish
