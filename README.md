@@ -7,5 +7,20 @@
 
 *This text is Italic*
 _This text also is Italic_
- 
+
+To bold text, put in 2 asterisks **Like this**
+
+To get bold italics, put 3 asterisks in ***Like this***
+
 This is normal text.
+
+Unordered List:
+- Item 1
+- Item 2
+    - Item 2a
+    - Item 2b
+
+Ordered List:
+1. First Item
+2. Second Item
+3. Third Item
