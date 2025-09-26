@@ -5,7 +5,7 @@
 ##### Heading 5 
 ###### Heading 6
 
-*This text is Italic
-_This text also is Italic
+*This text is Italic*
+_This text also is Italic_
  
-This is normal text
+This is normal text.
